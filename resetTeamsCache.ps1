@@ -1,7 +1,5 @@
 $folderPath = "$env:USERPROFILE\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams"
 
-# Close Microsoft Teams
-Close-Teams
 
 # Check if the folder exists
 if (Test-Path -Path $folderPath) {
