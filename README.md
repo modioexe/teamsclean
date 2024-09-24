@@ -1,4 +1,4 @@
-# teamsclean
+# teamsclean - Handy Script To Purge Local Users Teams Cache 2024
 
 ## Notice!
 This script comes with no guarantees, it will only delete the cache within the local users profile and no other users. 
